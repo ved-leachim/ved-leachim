@@ -1,12 +1,12 @@
 ### Ouuu... wow🐉 hello and welcome 🙏
 
 ## My Name is Michael and it's nice to have you here
-- 👨‍💻 I'm currently working as a Developer at Swissuccess AG
-- 📜 I'm studying computer science at [FFHS](https://www.ffhs.ch/en/degree-programmes/bachelor/informatik)
-- 🚶🏻‍♂️ I like to slowly progressing on the livelong journey of really learning and uderstanding IT
-- 🥅 2022 Goals: Bring up my own personal Website
+- 👨‍💻 I currently work as a developer at Swissuccess AG
+- 📜 I study computer science at [FFHS](https://www.ffhs.ch/en/degree-programmes/bachelor/informatik)
+- 🚶🏻‍♂️ I want to slowly progress on the lifelong journey of really learning and understanding IT
+- 🥅 2022 Goals: Set up my own personal website
 - ❤️ & 🔥: 👨‍👩‍👧 | 🐈 | 💻 | 💪 | 🤓 | 🎿 | ✈️
-- 😂 Fun Fact: Got a medicine study place ⚕️, passed it to join my friends IT-Business as a Partner 👨‍💼
+- 😂 Fun Fact: Got a medical school spot ⚕️and passed it to join my friend's IT business as a partner 👨‍💼
 
 ### Connect with me:
 
