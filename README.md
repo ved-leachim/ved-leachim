@@ -17,7 +17,7 @@
 ### Languages and Tools:
 
 <div>
-<img alt="HTML 5" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>&nbsp;&nbsp;
+[<img alt="HTML 5" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>&nbsp;&nbsp;
 <img alt="CSS 3" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>&nbsp;&nbsp;
 <img alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg"/>&nbsp;&nbsp;
 <img alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/>&nbsp;&nbsp;
@@ -27,3 +27,8 @@
 <img alt="Git" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>&nbsp;&nbsp;
 <img alt="GitHub" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"/>
 </div>
+
+---
+
+[![ved-leachim's GitHub stats](https://github-readme-stats.vercel.app/api?username=ved-leachim&count_private=true&hide=contribs,issues&show_icons=true&theme=tokyonight)](https://github.com/ved-leachim/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ved-leachim&theme=tokyonight)](https://github.com/ved-leachim/github-readme-stats)
