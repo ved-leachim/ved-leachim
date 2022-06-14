@@ -11,19 +11,19 @@
 ### Connect with me:
 
 [<img float="left" alt="Swissuccess AG" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://www.swissuccess.ch/)
-[<img float="left" alt="Michael Schmitz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="margin-left:15px;"/>](https://www.linkedin.com/in/michael-schmitz-b25b6614a/)
-[<img float="left" alt="Michael Schmitz | Xing" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xing.svg" style="margin-left:15px;"/>](https://www.xing.com/profile/Michael_Schmitz425/cv)
+[<img float="left" alt="Michael Schmitz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="margin-left:30px;"/>](https://www.linkedin.com/in/michael-schmitz-b25b6614a/)
+[<img float="left" alt="Michael Schmitz | Xing" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xing.svg" style="margin-left:30px;"/>](https://www.xing.com/profile/Michael_Schmitz425/cv)
 
 <br />
 
 ### Languages and Tools:
 
-<img float="left" alt="HTML 5" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
-<img float="left" alt="CSS 3" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="margin-left:10px;"/>
-<img float="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" style="margin-left:10px;"/>
-<img float="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" style="margin-left:10px;"/>
-<img float="left" alt="React.js" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" style="margin-left:10px;"/>
-<img float="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="margin-left:10px;"/>
-<img float="left" alt="JetBrains IDEs" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg" style="margin-left:10px;"/>
-<img float="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" style="margin-left:10px;"/>
-<img float="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" style="margin-left:10px;"/>
+<img alt="HTML 5" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
+<img alt="CSS 3" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="margin-left:10px;"/>
+<img alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" style="margin-left:10px;"/>
+<img alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" style="margin-left:10px;"/>
+<img alt="React.js" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" style="margin-left:10px;"/>
+<img alt="Java" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="margin-left:10px;"/>
+<img alt="JetBrains IDEs" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg" style="margin-left:10px;"/>
+<img alt="Git" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" style="margin-left:10px;"/>
+<img alt="GitHub" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" style="margin-left:10px;"/>
