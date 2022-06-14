@@ -1,4 +1,4 @@
-## Ouuu... wow🐉 hello and welcome 🙏
+### Ouuu... wow🐉 hello and welcome 🙏
 
 ## My Name is Michael and it's nice to have you here
 - 👨‍💻 I'm currently working as a Developer at Swissuccess AG
@@ -18,12 +18,14 @@
 
 ### Languages and Tools:
 
-<img alt="HTML 5" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
-<img alt="CSS 3" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="margin-left:10px;"/>
-<img alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" style="margin-left:10px;"/>
-<img alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" style="margin-left:10px;"/>
-<img alt="React.js" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" style="margin-left:10px;"/>
-<img alt="Java" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="margin-left:10px;"/>
-<img alt="JetBrains IDEs" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg" style="margin-left:10px;"/>
-<img alt="Git" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" style="margin-left:10px;"/>
-<img alt="GitHub" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" style="margin-left:10px;"/>
+<div>
+<img float="left" alt="HTML 5" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
+<img float="left" alt="CSS 3" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="margin-left:10px;"/>
+<img float="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" style="margin-left:10px;"/>
+<img float="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" style="margin-left:10px;"/>
+<img float="left" alt="React.js" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" style="margin-left:10px;"/>
+<img float="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="margin-left:10px;"/>
+<img float="left" alt="JetBrains IDEs" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg" style="margin-left:10px;"/>
+<img float="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" style="margin-left:10px;"/>
+<img float="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" style="margin-left:10px;"/>
+</div>
