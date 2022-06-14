@@ -3,7 +3,7 @@
 ## My Name is Michael and it's nice to have you here
 - 👨‍💻 I currently work as a developer at Swissuccess AG
 - 📜 I study computer science at [FFHS](https://www.ffhs.ch/en/degree-programmes/bachelor/informatik)
-- 🚶🏻‍♂️ I want to slowly progress on the lifelong journey of really learning and understanding IT
+- 🚶🏻‍♂️ I want to progress step by step on the lifelong journey of really learning and understanding IT
 - 🥅 2022 Goals: Set up my own personal website
 - ❤️ & 🔥: 👨‍👩‍👧 | 🐈 | 💻 | 💪 | 🤓 | 🎿 | ✈️
 - 😂 Fun Fact: Got a medical school spot ⚕️and passed it to join my friend's IT business as a partner 👨‍💼
