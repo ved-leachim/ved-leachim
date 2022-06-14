@@ -17,7 +17,7 @@
 ### Languages and Tools:
 
 <div>
-[<img alt="HTML 5" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>&nbsp;&nbsp;
+<img alt="HTML 5" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>&nbsp;&nbsp;
 <img alt="CSS 3" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>&nbsp;&nbsp;
 <img alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg"/>&nbsp;&nbsp;
 <img alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/>&nbsp;&nbsp;
