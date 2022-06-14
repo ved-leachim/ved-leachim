@@ -17,8 +17,8 @@
 ### Languages and Tools:
 
 <div>
-<img float="left" alt="HTML 5" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" href="https://html.com/html5/"/>
-<img float="left" alt="CSS 3" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="margin-left:10px;" href="https://css3.com/"/>
+<img float="left" alt="HTML 5" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
+<img float="left" alt="CSS 3" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="margin-left:10px;"/>
 <img float="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" style="margin-left:10px;"/>
 <img float="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" style="margin-left:10px;"/>
 <img float="left" alt="React.js" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" style="margin-left:10px;"/>
