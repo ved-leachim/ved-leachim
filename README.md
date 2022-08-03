@@ -5,7 +5,7 @@
 - 📜 I study computer science at [FFHS](https://www.ffhs.ch/en/degree-programmes/bachelor/informatik)
 - 👨🏻‍🏫 I am a teacher for prospective computer scientists
 - 🚶🏻‍♂️ I want to progress step by step on the lifelong journey of really learning and understanding IT
-- 🥅 2022 Goals: Set up my own personal website
+- 🥅 2022 Goals: Get the "Microsoft 365 Certified: Developer Associate"
 - ❤️ & 🔥: 👨‍👩‍👧 | 🐈 | 💻 | 💪 | 🤓 | 🎿 | ✈️
 - 😂 Fun Fact: Got a medical school spot ⚕️and passed it to join my friend's IT business as a partner 👨‍💼
 
