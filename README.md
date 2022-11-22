@@ -37,8 +37,6 @@
 <a href="https://github.com/ved-leachim/PowerShell"><img alt="PowerShell" widht="100px" src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white">
 </div></a>
 
-&nbsp;&nbsp;
-
 ### Platforms and Products:
 
 <div>
