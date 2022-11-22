@@ -1,6 +1,7 @@
 ### Ouuu... wow🐉 hello and welcome 🙏
 
 ## My Name is Michael and it's nice to have you here
+
 - 👨‍💻 I currently work as a developer at Swissuccess AG
 - 📜 I study computer science at [FFHS](https://www.ffhs.ch/en/degree-programmes/bachelor/informatik)
 - 👨🏻‍🏫 I am a teacher for prospective computer scientists
@@ -24,9 +25,29 @@
 <img alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/>&nbsp;&nbsp;
 <img alt="React.js" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>&nbsp;&nbsp;
 <img alt="Java" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>&nbsp;&nbsp;
+<img alt="Visual Studio" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg"/>&nbsp;&nbsp;
+<img alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"/>&nbsp;&nbsp;
 <img alt="JetBrains IDEs" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg"/>&nbsp;&nbsp;
 <img alt="Git" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>&nbsp;&nbsp;
-<img alt="GitHub" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"/>
+<img alt="GitHub" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"/>&nbsp;&nbsp;
+<img alt="Markdown" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg"/>
+</div>
+&nbsp;&nbsp;
+<div>
+<a href="https://github.com/ved-leachim/PowerShell"><img alt="PowerShell" widht="100px" src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white">
+</div></a>
+
+&nbsp;&nbsp;
+
+### Platforms and Products:
+
+<div>
+<img alt="Microsoft" width="108px" src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white"/>
+<img alt="Azure" width="150px" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+<img alt="Azure DevOps" width="127px" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white"/>
+<img alt="Azure Functions" width="146px" src="https://img.shields.io/badge/Azure_Functions-0062AD?style=for-the-badge&logo=azure-functions&logoColor=white"/>
+<img alt="SharePoint" width="178px" src="https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white"/>
+<img alt="Teams" width="143px" src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white"/>
 </div>
 
 ---
