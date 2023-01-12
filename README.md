@@ -51,4 +51,4 @@
 ---
 
 [![ved-leachim's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ved-leachim&count_private=true&hide=contribs,issues&show_icons=true&theme=tokyonight)](https://github.com/ved-leachim/github-readme-stats)&nbsp;&nbsp;
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?/top-langs/?username=ved-leachim&theme=tokyonight)](https://github.com/ved-leachim/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ved-leachim&theme=tokyonight)](https://github.com/ved-leachim/github-readme-stats)
