@@ -2,11 +2,11 @@
 
 ## My Name is Michael and it's nice to have you here
 
-- 👨‍💻 I currently work as a Cloud Consultant at Swissuccess AG
+- 👨‍💻 I currently work as a Software Engineer / Azure Developer at Swissuccess AG
 - 📜 I study computer science at [FFHS](https://www.ffhs.ch/en/degree-programmes/bachelor/informatik)
 - 👨🏻‍🏫 I am a teacher for prospective computer scientists
 - 🚶🏻‍♂️ I want to progress step by step on the lifelong journey of really learning and understanding IT
-- 🥅 2023 Goals: Passing the AZ-204 exam to become a Microsoft Certified: Azure Developer Associate
+- 🥅 2023 Goals: Passing the AZ-204 exam to become a Microsoft Certified: Azure Developer Associate ✅
 - ❤️ & 🔥: 👨‍👩‍👧 | 🐈 | 💻 | 💪 | 🤓 | 🎿 | ✈️
 - 😂 Fun Fact: Got a medical school spot ⚕️and passed it to join my friend's IT business as a partner 👨‍💼
 
