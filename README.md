@@ -7,6 +7,7 @@
 - 👨🏻‍🏫 I am a teacher for prospective computer scientists
 - 🚶🏻‍♂️ I want to progress step by step on the lifelong journey of really learning and understanding IT
 - 🥅 2023 Goals: Passing the AZ-204 exam to become a Microsoft Certified: Azure Developer Associate ✅
+- 🥅 2024 Goals: Passing the AZ-305 exam to become a Microsoft Certified: Azure Solutions Architect Expert ❓
 - ❤️ & 🔥: 👨‍👩‍👧 | 🐈 | 💻 | 💪 | 🤓 | 🎿 | ✈️
 - 😂 Fun Fact: Got a medical school spot ⚕️and passed it to join my friend's IT business as a partner 👨‍💼
 
@@ -23,14 +24,13 @@
 <img alt="CSS 3" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>&nbsp;&nbsp;
 <img alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg"/>&nbsp;&nbsp;
 <img alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/>&nbsp;&nbsp;
+<img alt="AngularJS" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg"/>&nbsp;&nbsp;
 <img alt="React.js" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>&nbsp;&nbsp;
 <img alt="Java" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>&nbsp;&nbsp;
-<img alt="Visual Studio" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg"/>&nbsp;&nbsp;
-<img alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"/>&nbsp;&nbsp;
+<img alt="Spring" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"/>&nbsp;&nbsp;
+<img alt="C#" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-line.svg"/>&nbsp;&nbsp;
 <img alt="JetBrains IDEs" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg"/>&nbsp;&nbsp;
 <img alt="Git" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>&nbsp;&nbsp;
-<img alt="GitHub" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"/>&nbsp;&nbsp;
-<img alt="Markdown" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg"/>
 </div>
 &nbsp;&nbsp;
 <div>
