@@ -14,8 +14,7 @@
 ### Connect with me:
 
 [<img float="left" alt="Swissuccess AG" width="22px" src="https://www.swissuccess.ch/wp-content/uploads/2020/05/swissuccess_rgb_resized_137_109.png" />](https://www.swissuccess.ch/)&nbsp;&nbsp;
-[<img float="left" alt="Michael Schmitz | LinkedIn" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"/>](https://www.linkedin.com/in/michael-schmitz-b25b6614a/)&nbsp;&nbsp;
-[<img float="left" alt="Michael Schmitz | Xing" width="22px" src="https://camo.githubusercontent.com/559cb0e71b23bcd0b454d3312cb05542efb176a2236a5f6ecc99d478726172da/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f78696e672e737667"/>](https://www.xing.com/profile/Michael_Schmitz425/cv)
+[<img float="left" alt="Michael Schmitz | LinkedIn" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"/>](https://www.linkedin.com/in/michael-schmitz-b25b6614a/)
 
 ### Languages and Tools:
 
